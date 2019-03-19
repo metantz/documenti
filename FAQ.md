@@ -57,6 +57,7 @@ In ogni caso, dato che le certificazioni, come detto, sonn strumenti aziendali, 
 - [Rust](https://doc.rust-lang.org/book/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
 ### Networking
 - [Reti di calcolatori e internet. Un approccio top-down](https://www.amazon.it/calcolatori-internet-approccio-top-down-aggiornamento/dp/8891902543/)
